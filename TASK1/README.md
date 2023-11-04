@@ -1,2 +1,0 @@
-# Movie genre classification prediction
- 
