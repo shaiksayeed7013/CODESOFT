@@ -24,6 +24,8 @@ Train a machine learning model (e.g., Naive Bayes, Logistic Regression, or SVM) 
 Evaluation:
 
 Assess the model's performance using appropriate metrics such as accuracy, precision, recall, or F1-score.
+
+
 Task 2: Credit Card Fraud Detection
 Problem:
 Build a model to detect fraudulent credit card transactions using a dataset containing information about credit card transactions.
@@ -45,6 +47,8 @@ Train a machine learning model (e.g., Logistic Regression, Decision Trees, or Ra
 Evaluation:
 
 Evaluate the model's performance using metrics like accuracy, precision, recall, or the area under the ROC curve.
+
+
 Task 3: Customer Churn Prediction
 Problem:
 Develop a model to predict customer churn for a subscription-based service or business using historical customer data.
@@ -66,6 +70,8 @@ Train a machine learning model (e.g., Logistic Regression, Random Forests, or Gr
 Evaluation:
 
 Evaluate the model's performance using metrics such as accuracy, precision, recall, or F1-score.
+
+
 Task 4: Spam SMS Detection
 Problem:
 Build an AI model that can classify SMS messages as spam or legitimate.
